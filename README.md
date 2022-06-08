@@ -1,3 +1,3 @@
 # conflict-resolution
 
-## lol you messed up dummy 
+##This will be a conflict
